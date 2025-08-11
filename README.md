@@ -1,1 +1,1 @@
-# ETL--JSON-Project
+"This project demonstrates an end-to-end ETL pipeline that extracts orders, products, and customers data from a JSON file, transforms it using Python (Pandas), and loads it into MySQL # ETL--JSON-Project
